@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="iOS/Renderers/RoundedBoxViewRenderer.cs">
+    <Files>
+      <File FileName="ExtendingXamarinForms/CustomElements/RoundedBoxView.cs" Line="24" Column="24" />
+      <File FileName="iOS/Renderers/RoundedBoxViewRenderer.cs" Line="5" Column="5" />
+      <File FileName="Android/Renderers/RoundedBoxViewRenderer.cs" Line="24" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

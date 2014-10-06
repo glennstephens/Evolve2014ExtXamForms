@@ -1,0 +1,35 @@
+# Version: 8.0.0.9 (436246d)
+# [first argument, ignore] # /Users/glennthomasstephens/Documents/MonoTouch/code/Slideshare Uploads/Collections/XamarinUniversityInternal/WorkInProgress/Evolve 2014/Glenn/Extending Xamarin.Forms/Sample App/ExtendingXamarinForms/iOS/bin/iPhone/Debug/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.0.0.9/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	"/Users/glennthomasstephens/Documents/MonoTouch/code/Slideshare Uploads/Collections/XamarinUniversityInternal/WorkInProgress/Evolve 2014/Glenn/Extending Xamarin.Forms/Sample App/ExtendingXamarinForms/iOS/obj/iPhone/Debug/mtouch-cache" \
+	--nomanifest \
+	--nosign \
+	-dev \
+	"/Users/glennthomasstephens/Documents/MonoTouch/code/Slideshare Uploads/Collections/XamarinUniversityInternal/WorkInProgress/Evolve 2014/Glenn/Extending Xamarin.Forms/Sample App/ExtendingXamarinForms/iOS/bin/iPhone/Debug/ExtendingXamarinFormsiOS.app" \
+	-r \
+	"/Users/glennthomasstephens/Documents/MonoTouch/code/Slideshare Uploads/Collections/XamarinUniversityInternal/WorkInProgress/Evolve 2014/Glenn/Extending Xamarin.Forms/Sample App/ExtendingXamarinForms/ExtendingXamarinForms/bin/Debug/ExtendingXamarinForms.dll" \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-r \
+	"/Users/glennthomasstephens/Documents/MonoTouch/code/Slideshare Uploads/Collections/XamarinUniversityInternal/WorkInProgress/Evolve 2014/Glenn/Extending Xamarin.Forms/Sample App/ExtendingXamarinForms/packages/Xamarin.Forms.1.2.2.6243/lib/MonoTouch10/Xamarin.Forms.Platform.iOS.dll" \
+	-r \
+	"/Users/glennthomasstephens/Documents/MonoTouch/code/Slideshare Uploads/Collections/XamarinUniversityInternal/WorkInProgress/Evolve 2014/Glenn/Extending Xamarin.Forms/Sample App/ExtendingXamarinForms/packages/Xamarin.Forms.1.2.2.6243/lib/MonoTouch10/Xamarin.Forms.Core.dll" \
+	-r \
+	"/Users/glennthomasstephens/Documents/MonoTouch/code/Slideshare Uploads/Collections/XamarinUniversityInternal/WorkInProgress/Evolve 2014/Glenn/Extending Xamarin.Forms/Sample App/ExtendingXamarinForms/packages/Xamarin.Forms.1.2.2.6243/lib/MonoTouch10/Xamarin.Forms.Xaml.dll" \
+	-debug \
+	-linksdkonly \
+	-sdk \
+	8.0 \
+	-targetver \
+	7.0 \
+	--abi=armv7 \
+	"/Users/glennthomasstephens/Documents/MonoTouch/code/Slideshare Uploads/Collections/XamarinUniversityInternal/WorkInProgress/Evolve 2014/Glenn/Extending Xamarin.Forms/Sample App/ExtendingXamarinForms/iOS/bin/iPhone/Debug/ExtendingXamarinFormsiOS.exe" \
